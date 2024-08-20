@@ -1,24 +1,20 @@
-<p align="center">
-  <a href="https://github.com/yonicalsin/nestjs-sequelize-seeder" target="blank"><img src="https://i.ibb.co/R3M1w4n/nestjs-svg-1.png" width="120" alt="Nestjs Sequelize Seeder Logo" /></a>
+<p>
+A simple extension library for nestjs sequelize to perform seeding.
 </p>
-
-<p align="center">
-🌾 A simple extension library for nestjs sequelize to perform seeding.
-</p>
-<p align="center" style="max-width: 450px; margin: auto;">
+<p>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-   <a href="https://github.com/yonicalsin/nestjs-sequelize-seeder" title="All Contributors"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" /></a>
+   <a href="https://github.com/yonycalsin/nestjs-sequelize-seeder" title="All Contributors"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-   <a href="https://github.com/yonicalsin/nestjs-sequelize-seeder"><img src="https://img.shields.io/spiget/stars/1000?color=brightgreen&label=Star&logo=github" /></a>
+   <a href="https://github.com/yonycalsin/nestjs-sequelize-seeder"><img src="https://img.shields.io/spiget/stars/1000?color=brightgreen&label=Star&logo=github" /></a>
    <a href="https://www.npmjs.com/nestjs-sequelize-seeder" target="_blank">
    <img src="https://img.shields.io/npm/v/nestjs-sequelize-seeder" alt="NPM Version" /></a>
    <a href="https://www.npmjs.com/nestjs-sequelize-seeder" target="_blank">
    <img src="https://img.shields.io/npm/l/nestjs-sequelize-seeder" alt="Package License" /></a>
    <a href="https://www.npmjs.com/nestjs-sequelize-seeder" target="_blank">
    <img src="https://img.shields.io/npm/dm/nestjs-sequelize-seeder" alt="NPM Downloads" /></a>
-   <a href="https://github.com/yonicalsin/nestjs-sequelize-seeder" target="_blank">
+   <a href="https://github.com/yonycalsin/nestjs-sequelize-seeder" target="_blank">
    <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_95.svg" alt="Coverage" /></a>
-   <a href="https://github.com/yonicalsin/nestjs-sequelize-seeder"><img src="https://img.shields.io/badge/Github%20Page-nestjs.sequelize.seeder-yellow?style=flat-square&logo=github" /></a>
+   <a href="https://github.com/yonycalsin/nestjs-sequelize-seeder"><img src="https://img.shields.io/badge/Github%20Page-nestjs.sequelize.seeder-yellow?style=flat-square&logo=github" /></a>
 </p>
 
 ## Description
@@ -300,7 +296,3 @@ export class SeedCatBreedUse implements OnSeederInit {
    }
 }
 ```
-
-## License
-
-`nestjs-sequelize-seeder` is [MIT licensed](LICENSE).
